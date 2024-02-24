@@ -8,3 +8,8 @@
 ## sesi2
 * Typecasting
 * List
+
+## sesi3
+* Looping
+* Function
+* Library
