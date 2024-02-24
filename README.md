@@ -4,3 +4,7 @@
 * Variable
 * Input & Output
 * Condition
+
+## sesi2
+* Typecasting
+* List
